@@ -1,0 +1,1 @@
+print("lose your self")
